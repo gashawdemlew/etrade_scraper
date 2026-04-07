@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+httpx
+cachetools
+backoff
+sqlalchemy>=1.4
+asyncpg
+aiosqlite
+python-dotenv
